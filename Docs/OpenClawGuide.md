@@ -7,7 +7,7 @@ OpenClaw（昵称“小龙虾”）是2026年极具影响力的开源AI智能体
 
 ### 原作者信息
 
-Peter Steinberger（OpenClaw核心开发者），资深全栈工程师、开源爱好者，拥有10年+AI工具与自动化系统研发经验，专注于LLM落地应用与本地智能体技术创新。其主导研发的Clawdbot/Moltbot（OpenClaw前身）已积累数万开源用户，后续结合社区反馈迭代升级为OpenClaw，致力于让AI从“对话”走向“执行”。同时，他主导搭建了ClawHub社区平台，推动OpenClaw生态的协同发展。个人GitHub地址：https://github.com/petersteinberger，可通过该地址关注工具更新动态、提交反馈或参与开源贡献。
+Peter Steinberger（OpenClaw核心开发者），资深全栈工程师、开源爱好者，拥有10年+AI工具与自动化系统研发经验，专注于LLM落地应用与本地智能体技术创新。其主导研发的Clawdbot/Moltbot（OpenClaw前身）已积累数万开源用户，后续结合社区反馈迭代升级为OpenClaw，致力于让AI从“对话”走向“执行”。同时，他主导搭建了ClawHub社区平台，推动OpenClaw生态的协同发展。个人GitHub地址：https://github.com/steipete，可通过该地址关注工具更新动态、提交反馈或参与开源贡献。
 
 本指南遵循“循序渐进、实操为王”的核心原则，全面覆盖从基础认知、环境部署到高级应用、实战优化的全流程，兼顾个人、开发者、企业三大应用场景，助力使用者快速掌握OpenClaw核心功能，同时介绍ClawHub的使用方法，帮助大家更好地利用社区资源，真正实现“指令触发、自主执行”的智能化工作模式[superscript:1]。
 
